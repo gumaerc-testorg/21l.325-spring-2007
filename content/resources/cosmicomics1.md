@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains an exemplary student essay as an example of a
   completed assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-325-small-wonders-staying-alive-spring-2007/ba43eb5c881e266caac01bccd41f182d_cosmicomics1.pdf
+file: /media/courses/21l-325-small-wonders-staying-alive-spring-2007/ba43eb5c881e266caac01bccd41f182d_cosmicomics1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: cosmicomics1.pdf
 uid: ba43eb5c-881e-266c-aac0-1bccd41f182d
