@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course overview and information on grading,
+  plagiarism, texts, and recommended citation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -26,7 +28,7 @@ Attendance and active participation will be especially important, as will the fr
 
 ### Assignments
 
-There will be two formal writing assignments - a modest essay assignment (see the [study materials]({{< baseurl >}}/pages/study-materials) section for some advice about what, to me, constitutes the analysis of a literary text) due 1 day before Ses #13. And a longer essay, on Calvino or Levi, due 1 day after Ses #25, and supplemented by a brief in-class presentation of your major thesis.
+There will be two formal writing assignments - a modest essay assignment (see the {{% resource_link 3115bc56-6be3-1dba-0d73-5b33a2e306be "study materials" %}} section for some advice about what, to me, constitutes the analysis of a literary text) due 1 day before Ses #13. And a longer essay, on Calvino or Levi, due 1 day after Ses #25, and supplemented by a brief in-class presentation of your major thesis.
 
 ### Late Policy
 
