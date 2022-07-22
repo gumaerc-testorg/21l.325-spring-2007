@@ -6,6 +6,7 @@ file: /courses/21l-325-small-wonders-staying-alive-spring-2007/ab184233714f3f871
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: periodic3.pdf
 uid: ab184233-714f-3f87-16fc-6fe6facea49e
 ---
 This resource contains an exemplary student essay as an example of a completed assignment.
-
