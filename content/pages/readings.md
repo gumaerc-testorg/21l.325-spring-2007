@@ -110,7 +110,7 @@ Levi, Primo. _The Periodic Table._
 {{< tdopen >}}
 
 
-Melville, Herman. "[Bartleby, the Scrivener](http://www.gutenberg.org/etext/11231)." In _The Story and Its Writer._
+Melville, Herman. "{{% resource_link "177ebb50-106a-4510-9353-094956e6aea9" "Bartleby, the Scrivener" %}}." In _The Story and Its Writer._
 
 
 {{< tdclose >}}
@@ -123,7 +123,7 @@ Melville, Herman. "[Bartleby, the Scrivener](http://www.gutenberg.org/etext/1123
 {{< tdopen >}}
 
 
-Hawthorne, Nathaniel. "[The Minister's Black Veil](http://www.enotes.com/topics/ministers-black-veil/critical-essays/ministers-black-veil)." In _The Story and Its Writer._
+Hawthorne, Nathaniel. "{{% resource_link "1bcc0a5b-42be-462a-a860-1ebdb2a5b44a" "The Minister's Black Veil" %}}." In _The Story and Its Writer._
 
 Don't overlook Hawthorne's footnote on the first page of the tale. And take the time to peruse Melville's remarks on his sometime neighbor Nathaniel.
 
@@ -162,7 +162,7 @@ Olsen, Tillie. "I Stand Here Ironing." In _The Story and Its Writer._
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Gilman, Charlotte Perkins. "[The Yellow Wallpaper](http://www.gutenberg.org/etext/1952)." In _The Story and Its Writer_.
+Gilman, Charlotte Perkins. "{{% resource_link "7f6f8d9d-7211-4fe9-ac7b-7d498cfb443f" "The Yellow Wallpaper" %}}." In _The Story and Its Writer_.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +173,7 @@ Gilman, Charlotte Perkins. "[The Yellow Wallpaper](http://www.gutenberg.org/etex
 {{< tdopen >}}
 
 
-Welty, Eudora. "[Why I Live at the P.O.](http://art-bin.com/art/or_weltypostoff.html)" In _The Story and Its Writer._
+Welty, Eudora. "{{% resource_link "1f3dc0a1-9082-4c28-a132-3974af1b35dc" "Why I Live at the P.O." %}}" In _The Story and Its Writer._
 
 Leave your book at home. We'll encounter the tale by way of a recorded reading by the author.
 
@@ -186,7 +186,7 @@ Leave your book at home. We'll encounter the tale by way of a recorded reading b
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Crane, Stephen. "[The Open Boat](http://www.enotes.com/topics/open-boat)." In _The Story and Its Writer_.
+Crane, Stephen. "{{% resource_link "39b70fdc-c898-4391-ba8d-cae32e3a5aa4" "The Open Boat" %}}." In _The Story and Its Writer_.
 
 Look at the journalistic version on page 1438 of the anthology, as well.
 
@@ -210,7 +210,7 @@ Carver, Raymond. "Cathedral." In _The Story and Its Writer_.
 {{< tdopen >}}
 
 
-James, Henry. [_Daisy Miller_](http://www.gutenberg.org/files/208/208-h/208-h.htm).
+James, Henry. {{% resource_link "eeea3bc7-b8d4-49b0-8c02-997efdf60cfe" "_Daisy Miller_" %}}.
 
 We'll spend much of our time on the very first paragraph of the tale. What clues are we offered as to the subject or genre of the novella. Does the rest of the tale follow up on these clues?
 
@@ -245,7 +245,7 @@ Faulkner, William. "Spotted Horses." In _Three Famous Short Novels._
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Fitzgerald, F. Scott. "[Babylon Revisited](http://gutenberg.net.au/fsf/BABYLON-REVISITED.txt)." In _The Story and Its Writer_.
+Fitzgerald, F. Scott. "{{% resource_link "dc0353e9-93ba-4c58-b703-f6a7d15d9403" "Babylon Revisited" %}}." In _The Story and Its Writer_.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -254,7 +254,7 @@ Fitzgerald, F. Scott. "[Babylon Revisited](http://gutenberg.net.au/fsf/BABYLON-R
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Joyce, James. "[The Dead](https://ebooks.adelaide.edu.au/j/joyce/james/j8d/chapter15.html)." In _The Story and Its Writer_.
+Joyce, James. "{{% resource_link "fd65b82b-5477-4618-b9ef-463939b1f49b" "The Dead" %}}." In _The Story and Its Writer_.
 {{< tdclose >}}
 
 {{< trclose >}}
