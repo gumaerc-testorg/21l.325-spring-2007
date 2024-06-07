@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains study materials on paraphrase, summary, and argument.
 file: /courses/21l-325-small-wonders-staying-alive-spring-2007/e65c3e3fc31ce17a0fda526442d4c59c_paraphrase.pdf
+file_size: 15302
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
