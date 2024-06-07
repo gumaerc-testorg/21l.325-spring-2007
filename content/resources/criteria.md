@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains study materials on writing a good paper.
 file: /courses/21l-325-small-wonders-staying-alive-spring-2007/5b9f29f8bca32c287a57f56892d0a25e_criteria.pdf
+file_size: 13755
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

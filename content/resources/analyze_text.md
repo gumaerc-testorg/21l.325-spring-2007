@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains study materials on analyzing a text.
 file: /courses/21l-325-small-wonders-staying-alive-spring-2007/2819bcefcda6427f36fc8f04b29a00e9_analyze_text.pdf
+file_size: 28195
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
