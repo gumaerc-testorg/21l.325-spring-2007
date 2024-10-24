@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains study materials on building a thesis.
-file: /courses/21l-325-small-wonders-staying-alive-spring-2007/8c251593a7c84b250e2e3af9c81daf65_build_thesis.pdf
+file: /ol-ocw-studio-app/courses/21l-325-small-wonders-staying-alive-spring-2007/8c251593a7c84b250e2e3af9c81daf65_build_thesis.pdf
 file_size: 14328
 file_type: application/pdf
 learning_resource_types: []

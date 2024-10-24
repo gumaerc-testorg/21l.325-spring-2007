@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains an exemplary student essay as an example of a
   completed assignment.
-file: /courses/21l-325-small-wonders-staying-alive-spring-2007/15719e531f50d35015451a2b3d9fd0c9_periodic1.pdf
+file: /ol-ocw-studio-app/courses/21l-325-small-wonders-staying-alive-spring-2007/15719e531f50d35015451a2b3d9fd0c9_periodic1.pdf
 file_size: 21226
 file_type: application/pdf
 learning_resource_types:
