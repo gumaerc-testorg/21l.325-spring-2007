@@ -56,12 +56,12 @@ Levi, Primo. *The Periodic Table.*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-Melville, Herman. "[Bartleby, the Scrivener](http://www.gutenberg.org/etext/11231)." In *The Story and Its Writer.*
+Melville, Herman. "{{% resource_link "fd2b2d73-fb95-4199-bb54-0a12b67a88dd" "Bartleby, the Scrivener" %}}." In *The Story and Its Writer.*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
 
-Hawthorne, Nathaniel. "[The Minister's Black Veil](http://www.enotes.com/topics/ministers-black-veil/critical-essays/ministers-black-veil)." In *The Story and Its Writer.*
+Hawthorne, Nathaniel. "{{% resource_link "81a65cbd-6873-4429-ab9e-5665e4777425" "The Minister's Black Veil" %}}." In *The Story and Its Writer.*
 
 Don't overlook Hawthorne's footnote on the first page of the tale. And take the time to peruse Melville's remarks on his sometime neighbor Nathaniel.
 
@@ -76,12 +76,12 @@ Olsen, Tillie. "I Stand Here Ironing." In *The Story and Its Writer.*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-Gilman, Charlotte Perkins. "[The Yellow Wallpaper](http://www.gutenberg.org/etext/1952)." In *The Story and Its Writer*.
+Gilman, Charlotte Perkins. "{{% resource_link "2c892aec-babd-4cc1-9009-fe79352a13b9" "The Yellow Wallpaper" %}}." In *The Story and Its Writer*.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
 
-Welty, Eudora. "[Why I Live at the P.O.](http://art-bin.com/art/or_weltypostoff.html)" In *The Story and Its Writer.*
+Welty, Eudora. "{{% resource_link "d4f0dbfe-ccd4-4f43-b59a-8ab813f87e7c" "Why I Live at the P.O." %}}" In *The Story and Its Writer.*
 
 Leave your book at home. We'll encounter the tale by way of a recorded reading by the author.
 
@@ -89,7 +89,7 @@ Leave your book at home. We'll encounter the tale by way of a recorded reading b
 13
 {{< tdclose >}}{{< tdopen >}}
 
-Crane, Stephen. "[The Open Boat](http://www.enotes.com/topics/open-boat)." In *The Story and Its Writer*.
+Crane, Stephen. "{{% resource_link "3b2d8c34-c71e-48d3-af08-ace8f7bec4fe" "The Open Boat" %}}." In *The Story and Its Writer*.
 
 Look at the journalistic version on page 1438 of the anthology, as well.
 
@@ -101,7 +101,7 @@ Carver, Raymond. "Cathedral." In *The Story and Its Writer*.
 15
 {{< tdclose >}}{{< tdopen >}}
 
-James, Henry. [*Daisy Miller*](http://www.gutenberg.org/files/208/208-h/208-h.htm).
+James, Henry. {{% resource_link "c91504e5-ecfa-48ad-9e27-c5306199396a" "*Daisy Miller*" %}}.
 
 We'll spend much of our time on the very first paragraph of the tale. What clues are we offered as to the subject or genre of the novella. Does the rest of the tale follow up on these clues?
 
@@ -116,7 +116,7 @@ Faulkner, William. "Spotted Horses." In *Three Famous Short Novels.*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
-Fitzgerald, F. Scott. "[Babylon Revisited](http://gutenberg.net.au/fsf/BABYLON-REVISITED.txt)." In *The Story and Its Writer*.
+Fitzgerald, F. Scott. "{{% resource_link "b29886bf-4d03-4a83-ab7b-f1a6e4f1e566" "Babylon Revisited" %}}." In *The Story and Its Writer*.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
